@@ -1,0 +1,2 @@
+/* This linker script does nothing */
+SECTIONS { }

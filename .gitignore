@@ -1,0 +1,15 @@
+*.a
+*.o
+*.so
+a.out
+ab
+ablinker
+ablinker2
+dynlinker
+emptylinker
+splitlinker
+staticlinker
+
+!libemptylinker.a
+!libablinker.a
+!libablinker2.a
